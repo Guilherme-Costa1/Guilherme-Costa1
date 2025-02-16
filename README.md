@@ -110,13 +110,14 @@
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Guilherme-Costa1&show_icons=true&theme=radical" 
+    src="https://github-readme-stats.vercel.app/api?username=Guilherme-Costa1&show_icons=true&theme=tokyonight&include_all_commits=radical" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
+      height="130" 
+      styple="padding-right: 90px;"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Costa1&layout=compact&theme=radical" 
   />
 
