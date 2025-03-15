@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Guilherme Henrique Alves Costa
+# 👩🏻‍💻 Guilherme 
 
 **`Engenheiro de Qualidade de Software`**
 
